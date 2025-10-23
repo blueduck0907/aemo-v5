@@ -19,7 +19,7 @@ def get_system_info():
     }
 
 def get_user_profile():
-    """Trả về thông tin người dùng giả"""
+    """Trả về thông tin người dùng giảk"""
     return {
         "user_profile": {
             "id": 12345,
