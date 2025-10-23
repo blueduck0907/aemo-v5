@@ -24,7 +24,7 @@ def get_user_profile():
         "user_profile": {
             "id": 12345,
             "username": "demo_user",
-            "email": "demo@example.com",
+            "email": "demo@example.comm",
             "role": "admin"
         },
         "permissions": ["read", "write", "delete"],
