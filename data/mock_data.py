@@ -10,7 +10,7 @@ def get_system_info():
     return {
         "system_info": {
             "name": "Demo FISS API v167777",
-            "version": "1.0.0",
+            "version": "1.0.5",
             "environment": "development"
         },
         "server_status": "running",
