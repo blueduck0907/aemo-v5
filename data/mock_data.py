@@ -6,7 +6,7 @@ Chứa các dữ liệu giả để test API endpoints
 import datetime
 
 def get_system_info():
-    """Trả về thông tin hệ thống giả"""
+    """Trả về thông tin hệ thống giảhhh"""
     return {
         "system_info": {
             "name": "Demo FISS API v16777",
